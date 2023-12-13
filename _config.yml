@@ -1,9 +1,11 @@
 theme: jekyll-theme-minimal
 url: "https://yqjing.github.io"
+plugins:
+  - jekyll-seo-tag
 
 title: Jing's Homepage
 description: New Homepage using Jekyll
-logo: /assets/logo_pic.png
+
 
 
 

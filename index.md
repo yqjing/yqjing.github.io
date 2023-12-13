@@ -1,4 +1,10 @@
+---
+layout: default
+title: Jing's Homepage
+---
+
 <img src="./assets/headshot.jpeg" width="120" align="right"/>
+
 
 ## Yuqi Jing
 y5jing [at] uwaterloo [dot] ca
