@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-url: "https://yqjing.github.io"
+baseurl: "https://yqjing.github.io"
 
 title: Jing's Homepage
 description: New Homepage using Jekyll
