@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+
   <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,17 +13,25 @@
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+<!--     <style type="text/css">
+      body {
+        color: #515151;
+        font-size: 15px;
+
+      }
+    </style> -->
   </head>
+
   <body>
     <div class="wrapper">
       {{ content }}
       <section>
       </section>
       <footer>
-        {% if site.github.is_project_page %}
+<!--         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-<!--         <p><small>&copy; 2023. All rights reserved.</small></p> -->
+        {% endif %} -->
+        <!-- <p><small>&copy; Last updated, Dec 13 2023.</small></p> -->
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
@@ -37,4 +46,6 @@
     </script>
     {% endif %}
   </body>
+
+
 </html>

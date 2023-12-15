@@ -4,7 +4,8 @@ plugins:
   - jekyll-seo-tag
 
 title: Jing's Homepage
-description: New Homepage using Jekyll
+description: New Homepage using Jekyll  # the second wording in tab, can be omitted.
+
 
 
 

@@ -571,12 +571,20 @@ footer {
     color: #444;
   }
 }
-h3 {
-  color: steelblue;
-}
-
 img {
   border-radius: 50%;
+}
+
+body {
+  color: #515151;
+  font-size: 15px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: black;
 }
 
 h1 {
@@ -584,11 +592,11 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 26px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 h4 {
