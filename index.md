@@ -15,7 +15,7 @@ My research is at the intersection of maths, finance and machine learning.
 
 
 &nbsp;  
-### Dec 15 Plan
+### Dec 16 Plan
 
 ***Reading!!!***  
 - Already one day late
@@ -29,6 +29,11 @@ My research is at the intersection of maths, finance and machine learning.
 - Custard tarts
 - Dumplings
 - Dousha Baozi
+- Dates
+- side dishes for porridge
+
+
+
 
 
 &nbsp;  
