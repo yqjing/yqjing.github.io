@@ -15,22 +15,39 @@ My research is at the intersection of maths, finance and machine learning.
 
 
 &nbsp;  
-### Dec 16 Plan
+### Dec 20 Plan (Montreal)
 
 ***Reading!!!***  
-- Already one day late
 - Nothing can be more important. It is critical!
 
 2. **Location**
-- DP library
+- McGill library
+    + Sort out stuff about TA duties
+    + Where is that Hotel Hilton in the conference picture?
+    + Buy a hoody from McGill
+        * Find the location first
+    + Find the Tim Hortons (Hot Chocolate)
+    + La Cave à Manger BOULANGERIE Vieux-Montréal
+        * The Baumkuchen bread, Pistachio flavour
+        * Yen Cuisine japonaise
+    + TD stuff sorted out
+        * Credit card issue preferred
+        * Consult them options, GIC (100 days at least)
+    + For dinner, either the Schwartz's Deli / Japanese
+    
+    
+        
 
-3. **Lunch**
-- TNT supermarket
-- Custard tarts
-- Dumplings
-- Dousha Baozi
-- Dates
-- side dishes for porridge
+
+
+
+3. **Dinner**
+- French Bar
+- 
+
+
+
+
 
 
 
