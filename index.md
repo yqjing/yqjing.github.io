@@ -15,7 +15,7 @@ My research is at the intersection of maths, finance and machine learning.
 
 
 &nbsp;  
-### Dec 20 Plan (Montreal)
+### Dec 24 Plan (Montreal)
 
 ***Reading!!!***  
 - Nothing can be more important. It is critical!
@@ -35,7 +35,11 @@ My research is at the intersection of maths, finance and machine learning.
         * Consult them options, GIC (100 days at least)
     + For dinner, either the Schwartz's Deli / Japanese
     
-    
+3. **Coding**
+- Decision Tree continue
+- Audio processing continue
+- Matrix theories in Jeff's lecture
+- Travelling salesman problem
         
 
 
@@ -44,7 +48,6 @@ My research is at the intersection of maths, finance and machine learning.
 3. **Dinner**
 - French Bar
 - 
-
 
 
 
