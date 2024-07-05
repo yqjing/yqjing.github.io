@@ -13,84 +13,16 @@ I am a MMath student in the Department of Statistics and Actuarial Science at Un
 
 My research is at the intersection of maths, finance and machine learning.
 
-
-&nbsp;  
-### Dec 20 Plan (Montreal)
-
-***Reading!!!***  
-- Nothing can be more important. It is critical!
-
-2. **Location**
-- McGill library
-    + Sort out stuff about TA duties
-    + Where is that Hotel Hilton in the conference picture?
-    + Buy a hoody from McGill
-        * Find the location first
-    + Find the Tim Hortons (Hot Chocolate)
-    + La Cave à Manger BOULANGERIE Vieux-Montréal
-        * The Baumkuchen bread, Pistachio flavour
-        * Yen Cuisine japonaise
-    + TD stuff sorted out
-        * Credit card issue preferred
-        * Consult them options, GIC (100 days at least)
-    + For dinner, either the Schwartz's Deli / Japanese
     
-    
-        
-
-
-
-
-3. **Dinner**
-- French Bar
-- 
-
-
-
-
-
-
-
-
-
 &nbsp;  
 ### My current focus
-I'm currently spending the holiday for 2023 Chrismas. My plans for the holiday are the following:
+I'm currently spending my 3rd term as a master student in UWaterloo.  
 
-***Reading!!!***  
-*Before the start of one day's work*
-- Go through all the papers DaiShuShu sent me
-- Just get myself started
-- Read the time series paper
-
-1. **Proctoring**
-- Dec 15, STAT 230, 4pm (gather in m3)
-
-2. **Coding**
-- Decision tree, write it as a whole class
-- Travelling salesman problem, finish the minimum spanning tree from Jiang's code
-- CS 770 coding continue, Jeff's code
-- RL problem, if time permits
-
-4. **Toronto Tour**
-- Maybe can be included in the Montreal travel
-- Buy books
-- Taste food
-- Go to clothing shop
-- Walk along the bank of Ontario Lake
-
-3. **US visa**
-- Do the application for USA visa ASAP
-
-4. **Driving license**
-- Do the driving license G1 at least
-- Have the certificate posted to me by UPS
 
 
 &nbsp;    
 ### Preprints
 <br/><br/> 
-
 
 ### Publications
 #### Conference Publications
@@ -124,9 +56,10 @@ Journal of Statistical Mechanics: Theory and Experiment, 2019
  -->
  
 
-&nbsp;
-### Future extensions to the web
+<!-- &nbsp; -->
+<!-- ### Future extensions to the web -->
 
+<!-- 
 1. **Images**
 - Add Shanghai, then Manchester, adn then Waterloo pictures to the page
 - Add family pictures
@@ -136,7 +69,7 @@ Journal of Statistical Mechanics: Theory and Experiment, 2019
 2. **Global analytics**
 - Add global analytics for tracking the number&location of people visiting the page in the globe
 
-3. **CV**
+3. **CV** -->
 
 &nbsp;  
 ### Contacts
