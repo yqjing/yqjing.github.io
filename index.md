@@ -9,14 +9,14 @@ title: Jing's Homepage
 
 Email: y5jing [at] uwaterloo [dot] ca
 
-I am a MMath student in the Department of Statistics and Actuarial Science at University of Waterloo, where I am very fortunate to be advised by Prof. [Chengguo Weng](https://www.chengguoweng.com/). Currently, I'm looking for a research topic in Finance. Previously, I completed my undergraduate studies at the University of Manchester, in the Mathematics Department, advised by Prof. [Korbinian Strimmer](https://strimmerlab.github.io/korbinian.html).
+I am a MMath student in the Department of Statistics and Actuarial Science at University of Waterloo, where I am very fortunate to be advised by Prof. [Chengguo Weng](https://www.chengguoweng.com/). Currently, I'm working on a regression problem in Portfolio Theory. Previously, I completed my undergraduate studies at the University of Manchester, in the Mathematics Department, advised by Prof. [Korbinian Strimmer](https://strimmerlab.github.io/korbinian.html).
 
-My research is at the intersection of maths, finance and machine learning.
+My research interest is at machine learning, portfolio theory, optimization and simulation. 
 
     
 &nbsp;  
 ### My current focus
-I'm currently spending my 3rd term as a master student in UWaterloo.  
+I'm currently spending my 3rd term as a master student in UWaterloo. I plan to stay in UWaterloo for the 4th term as MMATH. 
 
 
 
