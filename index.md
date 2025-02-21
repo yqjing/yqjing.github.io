@@ -9,16 +9,11 @@ title: Jing's Homepage
 
 Email: y5jing [at] uwaterloo [dot] ca
 
-I am a MMath student in the Department of Statistics and Actuarial Science at University of Waterloo, where I am very fortunate to be advised by Prof. [Chengguo Weng](https://www.chengguoweng.com/). Currently, I'm working on a regression problem in Portfolio Theory. Previously, I completed my undergraduate studies at the University of Manchester, in the Mathematics Department, advised by Prof. [Korbinian Strimmer](https://strimmerlab.github.io/korbinian.html).
+I am a first year PhD student in Actuarial Science in the Department of Statistics and Actuarial Science at University of Waterloo, where I am very fortunate to be advised by Prof. [Chengguo Weng](https://www.chengguoweng.com/) and Prof. David Saunders. My research interests lie in Econometrics and Financial Statistics. Currently, I'm working on the regularizing problem in portfolio theory given factor information. Previously, I completed my master studies in Statistics at University of Waterloo and undergraduate studies in Mathematics with Finance at University of Manchester, with the thesis advised by Prof. [Korbinian Strimmer](https://strimmerlab.github.io/korbinian.html).
 
-My research interest is at machine learning, portfolio theory, optimization and simulation. 
-
-    
 &nbsp;  
 ### My current focus
-I'm currently spending my 3rd term as a master student in UWaterloo. I plan to stay in UWaterloo for the 4th term as MMATH. 
-
-
+I'm currently spending my reading week at campus.
 
 &nbsp;    
 ### Preprints
@@ -44,8 +39,8 @@ Journal of Statistical Mechanics: Theory and Experiment, 2019
 [Paper](https://iopscience.iop.org/article/10.1088/1742-5468/ab3988)   -->
     
 &nbsp;  
-### Service
-<!-- **Reviewer:** NeurIPS (2020-22), ICML (2020-23). -->
+### Data Challenges
+**[WaterlooAI Wirefire Prediction Hackthron (May 2024)](https://uwaterloo.ca/artificial-intelligence-institute/events/we-didnt-start-fire-wins-wildfire-hackathon-2024):** 3rd team.
     
 &nbsp;  
 ### Talks
